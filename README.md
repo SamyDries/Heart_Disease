@@ -24,9 +24,5 @@ We used the **UCI Heart Disease dataset**, which includes features like:
 - `requirements.txt` – List of Python libraries required to run the notebook
 - `README.md` – This file
 
-## 🚀 How to Run
 
-You can open the notebook directly on [Google Colab](https://colab.research.google.com/):
 
-```bash
-https://colab.research.google.com/github/SamyDries/Heart_Disease/blob/main/heart_disease_predictor.ipynb
